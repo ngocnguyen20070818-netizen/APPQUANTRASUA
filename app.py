@@ -13,20 +13,28 @@ st.set_page_config(
 
 # Danh sách menu & giá (VND)
 MENU_TEA = {
+    "Trà sữa Hong Kong": 17000,
+    "Trà sữa Uyên ương": 18000,
+    "Trà sữa Vớ": 20000,
     "Trà Sữa Truyền Thống": 30000,
-    "Trà Sữa Trân Châu Đường Đen": 35000,
+    "Sữa Tươi Trân Châu Đường Đen": 35000,
     "Trà Sữa Thái Xanh": 32000,
+    "Trà sữa thái đỏ": 32000,
+    "Trà sữa gạo rang": 30000,
     "Trà Sữa Ô Long": 35000,
     "Trà Sữa Matcha": 38000,
     "Trà Sữa Dâu Tây": 35000,
     "Trà Đào Cam Sả": 35000,
     "Trà Dâu Tằm": 32000,
+    "Trà vải": 20000,
+    "Cacao bạc hà": 25000,
+    "Cacao kem muối": 28000,
 }
 
 SIZE_OPTIONS = {
-    "S (Vừa)": 0,
-    "M (Lớn)": 5000,
-    "L (Đặc biệt)": 10000
+    "S (Nhỏ)": 0,
+    "M (Trung bình)": 5000,
+    "L (Lớn)": 10000
 }
 
 TOPPING_OPTIONS = {
